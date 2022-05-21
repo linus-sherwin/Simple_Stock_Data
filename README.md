@@ -4,7 +4,5 @@ This contains the python code for Simple Stock data Application
 
 # Installation
 
-Requirements:
-
-@yfinance
-@streamlit
+  ### yfinance
+  ### streamlit
