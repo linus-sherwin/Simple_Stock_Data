@@ -6,3 +6,4 @@ This contains the python code for Simple Stock data Application
 
   ### yfinance
   ### streamlit
+  ### pandas
